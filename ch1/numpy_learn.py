@@ -29,3 +29,5 @@ mar2 = np.array([[4, 5], [8, 9]])
 print(mar * mar2)
 
 print(mar * 10)
+
+print(mar > 2)
